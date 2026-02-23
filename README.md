@@ -1,2 +1,3 @@
 # stitching-algorithms
-暂无
+
+包含拉普拉斯融合，向位相关法，还有一套我从python的stitching包当中拆解的特征点匹配算法，效果远超过传统的sift等特征点匹配算法，你可以用这个组合成一套手机全景拍照的pipeline(当然我已经帮你组合了，哈哈）
